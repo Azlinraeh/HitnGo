@@ -1,0 +1,15 @@
+<svg id="folder" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.819 33.819">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4978ab;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path_10924" data-name="Path 10924" class="cls-1" d="M13.273,4H4.818a2.815,2.815,0,0,0-2.8,2.818L2,23.728a2.827,2.827,0,0,0,2.818,2.818H27.365a2.827,2.827,0,0,0,2.818-2.818V9.637a2.827,2.827,0,0,0-2.818-2.818H16.091Z" transform="translate(0.818 1.637)"/>
+  <path id="Path_10925" data-name="Path 10925" class="cls-2" d="M0,0H33.819V33.819H0Z"/>
+</svg>
